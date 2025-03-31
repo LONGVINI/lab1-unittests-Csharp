@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\\u041E\u0421\u041D\u041E\u0412\u041D\u0410\u042F\\\u0443\u043D\u0438\u043A\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u042F\u041F\u0417\u0422\\C# \u0437\u0430\u0434\u0430\u043D\u0438\u0435 1\\Lab1_UnitTests\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{86AB9B4E-5213-43E1-A889-1EC4A8168B39}|Lab1_UnitTests.csproj|e:\\\u043E\u0441\u043D\u043E\u0432\u043D\u0430\u044F\\\u0443\u043D\u0438\u043A\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u044F\u043F\u0437\u0442\\c# \u0437\u0430\u0434\u0430\u043D\u0438\u0435 1\\lab1_unittests\\impl\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86AB9B4E-5213-43E1-A889-1EC4A8168B39}|Lab1_UnitTests.csproj|solutionrelative:impl\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86AB9B4E-5213-43E1-A889-1EC4A8168B39}|Lab1_UnitTests.csproj|e:\\\u043E\u0441\u043D\u043E\u0432\u043D\u0430\u044F\\\u0443\u043D\u0438\u043A\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u044F\u043F\u0437\u0442\\c# \u0437\u0430\u0434\u0430\u043D\u0438\u0435 1\\lab1_unittests\\impl\\todolist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86AB9B4E-5213-43E1-A889-1EC4A8168B39}|Lab1_UnitTests.csproj|solutionrelative:impl\\todolist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86AB9B4E-5213-43E1-A889-1EC4A8168B39}|Lab1_UnitTests.csproj|e:\\\u043E\u0441\u043D\u043E\u0432\u043D\u0430\u044F\\\u0443\u043D\u0438\u043A\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u044F\u043F\u0437\u0442\\c# \u0437\u0430\u0434\u0430\u043D\u0438\u0435 1\\lab1_unittests\\impl\\temperatureconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86AB9B4E-5213-43E1-A889-1EC4A8168B39}|Lab1_UnitTests.csproj|solutionrelative:impl\\temperatureconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86AB9B4E-5213-43E1-A889-1EC4A8168B39}|Lab1_UnitTests.csproj|e:\\\u043E\u0441\u043D\u043E\u0432\u043D\u0430\u044F\\\u0443\u043D\u0438\u043A\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u044F\u043F\u0437\u0442\\c# \u0437\u0430\u0434\u0430\u043D\u0438\u0435 1\\lab1_unittests\\impl\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86AB9B4E-5213-43E1-A889-1EC4A8168B39}|Lab1_UnitTests.csproj|solutionrelative:impl\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86AB9B4E-5213-43E1-A889-1EC4A8168B39}|Lab1_UnitTests.csproj|e:\\\u043E\u0441\u043D\u043E\u0432\u043D\u0430\u044F\\\u0443\u043D\u0438\u043A\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u044F\u043F\u0437\u0442\\c# \u0437\u0430\u0434\u0430\u043D\u0438\u0435 1\\lab1_unittests\\tests\\todolisttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86AB9B4E-5213-43E1-A889-1EC4A8168B39}|Lab1_UnitTests.csproj|solutionrelative:tests\\todolisttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86AB9B4E-5213-43E1-A889-1EC4A8168B39}|Lab1_UnitTests.csproj|e:\\\u043E\u0441\u043D\u043E\u0432\u043D\u0430\u044F\\\u0443\u043D\u0438\u043A\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u044F\u043F\u0437\u0442\\c# \u0437\u0430\u0434\u0430\u043D\u0438\u0435 1\\lab1_unittests\\tests\\temperatureconvertertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86AB9B4E-5213-43E1-A889-1EC4A8168B39}|Lab1_UnitTests.csproj|solutionrelative:tests\\temperatureconvertertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86AB9B4E-5213-43E1-A889-1EC4A8168B39}|Lab1_UnitTests.csproj|e:\\\u043E\u0441\u043D\u043E\u0432\u043D\u0430\u044F\\\u0443\u043D\u0438\u043A\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u044F\u043F\u0437\u0442\\c# \u0437\u0430\u0434\u0430\u043D\u0438\u0435 1\\lab1_unittests\\tests\\shoppingcarttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86AB9B4E-5213-43E1-A889-1EC4A8168B39}|Lab1_UnitTests.csproj|solutionrelative:tests\\shoppingcarttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86AB9B4E-5213-43E1-A889-1EC4A8168B39}|Lab1_UnitTests.csproj|e:\\\u043E\u0441\u043D\u043E\u0432\u043D\u0430\u044F\\\u0443\u043D\u0438\u043A\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u044F\u043F\u0437\u0442\\c# \u0437\u0430\u0434\u0430\u043D\u0438\u0435 1\\lab1_unittests\\tests\\librarytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86AB9B4E-5213-43E1-A889-1EC4A8168B39}|Lab1_UnitTests.csproj|solutionrelative:tests\\librarytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 469,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Library.cs",
+              "DocumentMoniker": "E:\\\u041E\u0421\u041D\u041E\u0412\u041D\u0410\u042F\\\u0443\u043D\u0438\u043A\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u042F\u041F\u0417\u0422\\C# \u0437\u0430\u0434\u0430\u043D\u0438\u0435 1\\Lab1_UnitTests\\Impl\\Library.cs",
+              "RelativeDocumentMoniker": "Impl\\Library.cs",
+              "ToolTip": "E:\\\u041E\u0421\u041D\u041E\u0412\u041D\u0410\u042F\\\u0443\u043D\u0438\u043A\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u042F\u041F\u0417\u0422\\C# \u0437\u0430\u0434\u0430\u043D\u0438\u0435 1\\Lab1_UnitTests\\Impl\\Library.cs",
+              "RelativeToolTip": "Impl\\Library.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T23:57:31.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ShoppingCart.cs",
+              "DocumentMoniker": "E:\\\u041E\u0421\u041D\u041E\u0412\u041D\u0410\u042F\\\u0443\u043D\u0438\u043A\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u042F\u041F\u0417\u0422\\C# \u0437\u0430\u0434\u0430\u043D\u0438\u0435 1\\Lab1_UnitTests\\Impl\\ShoppingCart.cs",
+              "RelativeDocumentMoniker": "Impl\\ShoppingCart.cs",
+              "ToolTip": "E:\\\u041E\u0421\u041D\u041E\u0412\u041D\u0410\u042F\\\u0443\u043D\u0438\u043A\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u042F\u041F\u0417\u0422\\C# \u0437\u0430\u0434\u0430\u043D\u0438\u0435 1\\Lab1_UnitTests\\Impl\\ShoppingCart.cs",
+              "RelativeToolTip": "Impl\\ShoppingCart.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAEgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T23:57:57.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TemperatureConverter.cs",
+              "DocumentMoniker": "E:\\\u041E\u0421\u041D\u041E\u0412\u041D\u0410\u042F\\\u0443\u043D\u0438\u043A\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u042F\u041F\u0417\u0422\\C# \u0437\u0430\u0434\u0430\u043D\u0438\u0435 1\\Lab1_UnitTests\\Impl\\TemperatureConverter.cs",
+              "RelativeDocumentMoniker": "Impl\\TemperatureConverter.cs",
+              "ToolTip": "E:\\\u041E\u0421\u041D\u041E\u0412\u041D\u0410\u042F\\\u0443\u043D\u0438\u043A\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u042F\u041F\u0417\u0422\\C# \u0437\u0430\u0434\u0430\u043D\u0438\u0435 1\\Lab1_UnitTests\\Impl\\TemperatureConverter.cs",
+              "RelativeToolTip": "Impl\\TemperatureConverter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T23:58:13.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TodoList.cs",
+              "DocumentMoniker": "E:\\\u041E\u0421\u041D\u041E\u0412\u041D\u0410\u042F\\\u0443\u043D\u0438\u043A\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u042F\u041F\u0417\u0422\\C# \u0437\u0430\u0434\u0430\u043D\u0438\u0435 1\\Lab1_UnitTests\\Impl\\TodoList.cs",
+              "RelativeDocumentMoniker": "Impl\\TodoList.cs",
+              "ToolTip": "E:\\\u041E\u0421\u041D\u041E\u0412\u041D\u0410\u042F\\\u0443\u043D\u0438\u043A\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u042F\u041F\u0417\u0422\\C# \u0437\u0430\u0434\u0430\u043D\u0438\u0435 1\\Lab1_UnitTests\\Impl\\TodoList.cs",
+              "RelativeToolTip": "Impl\\TodoList.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAADEAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T23:58:35.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ShoppingCartTests.cs",
+              "DocumentMoniker": "E:\\\u041E\u0421\u041D\u041E\u0412\u041D\u0410\u042F\\\u0443\u043D\u0438\u043A\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u042F\u041F\u0417\u0422\\C# \u0437\u0430\u0434\u0430\u043D\u0438\u0435 1\\Lab1_UnitTests\\Tests\\ShoppingCartTests.cs",
+              "RelativeDocumentMoniker": "Tests\\ShoppingCartTests.cs",
+              "ToolTip": "E:\\\u041E\u0421\u041D\u041E\u0412\u041D\u0410\u042F\\\u0443\u043D\u0438\u043A\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u042F\u041F\u0417\u0422\\C# \u0437\u0430\u0434\u0430\u043D\u0438\u0435 1\\Lab1_UnitTests\\Tests\\ShoppingCartTests.cs",
+              "RelativeToolTip": "Tests\\ShoppingCartTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T00:07:03.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TemperatureConverterTests.cs",
+              "DocumentMoniker": "E:\\\u041E\u0421\u041D\u041E\u0412\u041D\u0410\u042F\\\u0443\u043D\u0438\u043A\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u042F\u041F\u0417\u0422\\C# \u0437\u0430\u0434\u0430\u043D\u0438\u0435 1\\Lab1_UnitTests\\Tests\\TemperatureConverterTests.cs",
+              "RelativeDocumentMoniker": "Tests\\TemperatureConverterTests.cs",
+              "ToolTip": "E:\\\u041E\u0421\u041D\u041E\u0412\u041D\u0410\u042F\\\u0443\u043D\u0438\u043A\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u042F\u041F\u0417\u0422\\C# \u0437\u0430\u0434\u0430\u043D\u0438\u0435 1\\Lab1_UnitTests\\Tests\\TemperatureConverterTests.cs",
+              "RelativeToolTip": "Tests\\TemperatureConverterTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T00:07:12.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TodoListTests.cs",
+              "DocumentMoniker": "E:\\\u041E\u0421\u041D\u041E\u0412\u041D\u0410\u042F\\\u0443\u043D\u0438\u043A\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u042F\u041F\u0417\u0422\\C# \u0437\u0430\u0434\u0430\u043D\u0438\u0435 1\\Lab1_UnitTests\\Tests\\TodoListTests.cs",
+              "RelativeDocumentMoniker": "Tests\\TodoListTests.cs",
+              "ToolTip": "E:\\\u041E\u0421\u041D\u041E\u0412\u041D\u0410\u042F\\\u0443\u043D\u0438\u043A\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u042F\u041F\u0417\u0422\\C# \u0437\u0430\u0434\u0430\u043D\u0438\u0435 1\\Lab1_UnitTests\\Tests\\TodoListTests.cs",
+              "RelativeToolTip": "Tests\\TodoListTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T00:07:20.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LibraryTests.cs",
+              "DocumentMoniker": "E:\\\u041E\u0421\u041D\u041E\u0412\u041D\u0410\u042F\\\u0443\u043D\u0438\u043A\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u042F\u041F\u0417\u0422\\C# \u0437\u0430\u0434\u0430\u043D\u0438\u0435 1\\Lab1_UnitTests\\Tests\\LibraryTests.cs",
+              "RelativeDocumentMoniker": "Tests\\LibraryTests.cs",
+              "ToolTip": "E:\\\u041E\u0421\u041D\u041E\u0412\u041D\u0410\u042F\\\u0443\u043D\u0438\u043A\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u042F\u041F\u0417\u0422\\C# \u0437\u0430\u0434\u0430\u043D\u0438\u0435 1\\Lab1_UnitTests\\Tests\\LibraryTests.cs",
+              "RelativeToolTip": "Tests\\LibraryTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T00:07:27.685Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
